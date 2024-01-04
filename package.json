@@ -1,0 +1,13 @@
+{
+    "name": "Task1",
+    "version": "21.5.0",
+    "description": "Node.js server for Task 1",
+    "main": "Task1.js",
+    "scripts": {
+      "start": "node Task1.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
